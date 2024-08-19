@@ -13,7 +13,7 @@ I'm a passionate and experienced computer engineer with a strong background in n
 
 ## 💼 Professional Experience
 - **[Mashhad Kala](https://mashadkala.com/) - Senior Hardware Engineer** (2017 - Present)
-- **[Poosh Ertebat Company](https://example.com) - Network Support Engineer** (2015 - 2017)
+- **[Poosh Ertebat Company](https://rasmio.com/company/10380299882/direct/) - Network Support Engineer** (2015 - 2017)
 - **[Green Plain Institute](https://example.com) - IT Technician** (2014 - 2015)
 
 ## 📈 Notable Projects
