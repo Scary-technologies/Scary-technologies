@@ -14,12 +14,12 @@ I'm a passionate and experienced computer engineer with a strong background in n
 ## 💼 Professional Experience
 - **[Mashhad Kala](https://mashadkala.com/) - Senior Hardware Engineer** (2017 - Present)
 - **[Poosh Ertebat Company](https://rasmio.com/company/10380299882/direct/) - Network Support Engineer** (2015 - 2017)
-- **[Green Plain Institute](https://example.com) - IT Technician** (2014 - 2015)
+- **Green Plain Institute - IT Technician** (2014 - 2015)
 
 ## 📈 Notable Projects
 - **[Ratin Ard Company Website](http://ratinard.com)** - Designed and implemented a complete web solution.
 - **[Kaveh Ahangar Factory Network](https://gsksite.com)** - Executed network and security setup including CCTV integration.
-- **[Imam Reza School Network]** - Developed and managed the school’s IT infrastructure.
+- **Imam Reza School Network** - Developed and managed the school’s IT infrastructure.
 
 ## 📞 Get in Touch
 - **Email:** [prof.mirshahi@gmail.com](mailto:prof.mirshahi@gmail.com)
@@ -33,4 +33,4 @@ I'm a passionate and experienced computer engineer with a strong background in n
 
 ### 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/example](https://www.linkedin.com/in/ali-mirshahi-507948248)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](http://example.com)
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.pr-mir.ir)
