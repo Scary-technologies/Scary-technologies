@@ -7,19 +7,23 @@ I'm a passionate and experienced computer engineer with a strong background in n
 ## 🛠 Skills & Expertise
 - **Network Administration:** Mikrotik, WAN/MAN/LAN Configuration, Network Security
 - **System Administration:** VPS Management, Linux (Ubuntu), Database Design
-- **Web Development:** PHP, Python, MySQL, Web Hosting
-- **Software Tools:** Adobe Photoshop, XAMPP, Microsoft Access, ICDL
-- **Project Management:** IT Support, Technical Documentation, Client Relations
+- **Web Development:** Python, MySQL, Web Hosting , Automation, Some Bot :)
+- **Software Tools:** Adobe Photoshop, XAMPP, Microsoft Access , VirtualBox, VS
+- **Web Tools** Canva, OpenAi, TelgramBots
+- **Project Management:** IT Support, Technical Documentation, Client Relations ,
 
 ## 💼 Professional Experience
-- **[Mashhad Kala](https://mashadkala.com/) - Senior Hardware Engineer** (2017 - Present)
+- **[Alavi Highschool](https://alavi.ir/) - Computer Teacher** (2020 - 2022)
+- **[Mashhad Kala](https://mashadkala.com/) - Senior Hardware Engineer** (2017 - 2019)
 - **[Poosh Ertebat Company](https://rasmio.com/company/10380299882/direct/) - Network Support Engineer** (2015 - 2017)
-- **Green Plain Institute - IT Technician** (2014 - 2015)
+- **Mahrookh Dashte Sabz Institute - IT Technician** (2014 - 2015)
+- **Green Plain Institute - IT Technician** (2013 - 2014)
 
 ## 📈 Notable Projects
 - **[Ratin Ard Company Website](http://ratinard.com)** - Designed and implemented a complete web solution.
 - **[Kaveh Ahangar Factory Network](https://gsksite.com)** - Executed network and security setup including CCTV integration.
 - **Imam Reza School Network** - Developed and managed the school’s IT infrastructure.
+- 
 
 ## 📂 My Repositories
 
