@@ -22,7 +22,6 @@ I'm a passionate and experienced computer engineer with a strong background in n
 - **Imam Reza School Network** - Developed and managed the school’s IT infrastructure.
 
 ## 📞 Get in Touch
-- **Email:** [prof.mirshahi@gmail.com](mailto:prof.mirshahi@gmail.com)
 - **LinkedIn:** [Ali Mirshahi](https://www.linkedin.com/in/ali-mirshahi-507948248)
 - **Website:** [My Portfolio](https://www.pr-mir.ir)
 
@@ -32,5 +31,5 @@ I'm a passionate and experienced computer engineer with a strong background in n
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scary-technologies&show_icons=true&theme=radical)
 
 ### 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/example](https://www.linkedin.com/in/ali-mirshahi-507948248)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ali-mirshahi-507948248)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.pr-mir.ir)
