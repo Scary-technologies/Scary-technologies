@@ -9,7 +9,7 @@ I'm a passionate and experienced computer engineer with a strong background in n
 - **System Administration:** VPS Management, Linux (Ubuntu), Database Design
 - **Web Development:** Python, MySQL, Web Hosting , Automation, Some Bot :)
 - **Software Tools:** Adobe Photoshop, XAMPP, Microsoft Access , VirtualBox, VS
-- **Web Tools** Canva, OpenAi, TelgramBots
+- **Web Tools** Canva, OpenAi, TelegramBots
 - **Project Management:** IT Support, Technical Documentation, Client Relations ,
 
 ## 💼 Professional Experience
