@@ -21,6 +21,18 @@ I'm a passionate and experienced computer engineer with a strong background in n
 - **[Kaveh Ahangar Factory Network](https://gsksite.com)** - Executed network and security setup including CCTV integration.
 - **Imam Reza School Network** - Developed and managed the school’s IT infrastructure.
 
+## 📂 My Repositories
+
+- [WordPress User Manager SQL With GUI](https://github.com/Scary-technologies/WordPress_User_Manager_SQL_With_GUI) - A project that includes a SQL-based user management system for WordPress with a graphical user interface (GUI).
+- [WordPress Alt Text Updater SQL With GUI](https://github.com/Scary-technologies/WordPress-Alt-Text-Updater-SQL-With-GUI) - A tool designed to update alt text for WordPress images using a SQL-based system, featuring a user-friendly graphical interface (GUI).
+- [Cloudflare Zone Manager](https://github.com/Scary-technologies/Cloudflare-Zone-Manager) - A project focused on managing Cloudflare zones with an integrated solution, providing enhanced control and automation through a GUI.
+- [SRT Translate to Persian](https://github.com/Scary-technologies/srt_translate_to_persian) - A tool designed to translate SRT subtitle files into Persian, providing an easy-to-use interface for quick and accurate translations.
+- [PVTT](https://github.com/Scary-technologies/PVTT) - A Persian speech-to-text conversion tool built with Python, utilizing PyQt5 for the GUI and SpeechRecognition for voice recognition. The tool features real-time transcription, visual status indicators, and the ability to send text directly to the active window.
+
+  
+
+
+
 ## 📞 Get in Touch
 - **LinkedIn:** [Ali Mirshahi](https://www.linkedin.com/in/ali-mirshahi-507948248)
 - **Website:** [My Portfolio](https://www.pr-mir.ir)
