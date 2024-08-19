@@ -17,13 +17,14 @@ I'm a passionate and experienced computer engineer with a strong background in n
 - **[Mashhad Kala](https://mashadkala.com/) - Senior Hardware Engineer** (2017 - 2019)
 - **[Poosh Ertebat Company](https://rasmio.com/company/10380299882/direct/) - Network Support Engineer** (2015 - 2017)
 - **Mahrookh Dashte Sabz Institute - IT Technician** (2014 - 2015)
-- **Green Plain Institute - IT Technician** (2013 - 2014)
+
 
 ## 📈 Notable Projects
 - **[Ratin Ard Company Website](http://ratinard.com)** - Designed and implemented a complete web solution.
 - **[Kaveh Ahangar Factory Network](https://gsksite.com)** - Executed network and security setup including CCTV integration.
 - **Imam Reza School Network** - Developed and managed the school’s IT infrastructure.
-- 
+- **Emergency 115** - Management of wireless networks 115
+
 
 ## 📂 My Repositories
 
