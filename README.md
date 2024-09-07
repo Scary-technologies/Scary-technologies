@@ -34,7 +34,7 @@ I'm a passionate and experienced computer engineer with a strong background in n
 - [SRT Translate to Persian](https://github.com/Scary-technologies/srt_translate_to_persian) - A tool designed to translate SRT subtitle files into Persian, providing an easy-to-use interface for quick and accurate translations.
 - [PVTT](https://github.com/Scary-technologies/PVTT) - A Persian speech-to-text conversion tool built with Python, utilizing PyQt5 for the GUI and SpeechRecognition for voice recognition. The tool features real-time transcription, visual status indicators, and the ability to send text directly to the active window.
 
-  <a href="https://www.coffeebede.com/pr-m"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+ 
 
 
 
@@ -50,3 +50,7 @@ I'm a passionate and experienced computer engineer with a strong background in n
 ### 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ali-mirshahi-507948248)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.pr-mir.ir)
+
+
+
+ <a href="https://www.coffeebede.com/pr-m"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
