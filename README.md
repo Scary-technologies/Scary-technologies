@@ -40,7 +40,7 @@ I'm a passionate and experienced computer engineer with a strong background in n
 
 ## 📞 Get in Touch
 - **LinkedIn:** [Ali Mirshahi](https://www.linkedin.com/in/ali-mirshahi-507948248)
-- **Website:** [My Portfolio](https://www.pr-mir.ir)
+
 
 ---
 
@@ -49,7 +49,7 @@ I'm a passionate and experienced computer engineer with a strong background in n
 
 ### 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ali-mirshahi-507948248)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.pr-mir.ir)
+
 
 
 
