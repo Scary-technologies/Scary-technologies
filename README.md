@@ -65,7 +65,6 @@ I'm a passionate and experienced computer engineer with a strong background in n
 
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scary-technologies&layout=compact&theme=radical)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Scary-technologies&repo=PVTT&theme=radical)
 ![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Scary-technologies&theme=radical)
 
 
