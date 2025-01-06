@@ -28,11 +28,30 @@ I'm a passionate and experienced computer engineer with a strong background in n
 
 ## 📂 My Repositories
 
-- [WordPress User Manager SQL With GUI](https://github.com/Scary-technologies/WordPress_User_Manager_SQL_With_GUI) - A project that includes a SQL-based user management system for WordPress with a graphical user interface (GUI).
-- [WordPress Alt Text Updater SQL With GUI](https://github.com/Scary-technologies/WordPress-Alt-Text-Updater-SQL-With-GUI) - A tool designed to update alt text for WordPress images using a SQL-based system, featuring a user-friendly graphical interface (GUI).
-- [Cloudflare Zone Manager](https://github.com/Scary-technologies/Cloudflare-Zone-Manager) - A project focused on managing Cloudflare zones with an integrated solution, providing enhanced control and automation through a GUI.
-- [SRT Translate to Persian](https://github.com/Scary-technologies/srt_translate_to_persian) - A tool designed to translate SRT subtitle files into Persian, providing an easy-to-use interface for quick and accurate translations.
-- [PVTT](https://github.com/Scary-technologies/PVTT) - A Persian speech-to-text conversion tool built with Python, utilizing PyQt5 for the GUI and SpeechRecognition for voice recognition. The tool features real-time transcription, visual status indicators, and the ability to send text directly to the active window.
+PVTT
+ابزار تبدیل گفتار به متن فارسی با استفاده از پایتون، PyQt5 و SpeechRecognition. مناسب برای تایپ خودکار متن‌ها از طریق صدا.
+WooCommerce-Bulk-Product-Update-Tool
+ابزاری گرافیکی برای بروزرسانی دسته‌جمعی محصولات ووکامرس با استفاده از API ووکامرس.
+WooCommerce-Print-Orders
+افزونه‌ای پیشرفته برای چاپ فاکتورهای ووکامرس با پشتیبانی از زبان‌های راست‌به‌چپ و شخصی‌سازی کامل.
+Link-Checker-Tool
+برنامه‌ای برای بررسی لینک‌های خراب (404) از فایل‌های متنی و ارائه گزارش‌های ذخیره‌شده.
+WebP-Optimizer-Pro
+افزونه وردپرس برای تبدیل تصاویر به فرمت WebP با قابلیت تبدیل دسته‌جمعی و تنظیم کیفیت تصاویر.
+Wp-Import-Random-Comments
+پلاگین وردپرس برای درون‌ریزی نظرات تصادفی از فایل‌های متنی شامل نام کاربران و نظرات.
+Product-Data-Extractor
+برنامه‌ای برای استخراج اطلاعات محصولات از سایت‌های تجارت الکترونیک و ذخیره آن‌ها در فایل اکسل.
+Advanced-Image-Resizer-WooCommerce-Thumbnail-Creator
+ابزار پیشرفته برای تغییر اندازه تصاویر ووکامرس و ایجاد بندانگشتی‌های بهینه.
+WooCommerce-Random-Reviews-Generator
+اسکریپت پایتونی برای ایجاد نظرات تصادفی برای محصولات ووکامرس.
+IMG2WEBP
+اپلیکیشن وب ساده برای تبدیل تصاویر JPG و PNG به فرمت WebP با قابلیت دانلود و مشاهده تغییر حجم فایل.
+SRT Translate to Persian
+ابزار ترجمه فایل‌های زیرنویس SRT به فارسی با استفاده از googletrans.
+Cloudflare-Zone-Manager
+ابزاری برای مدیریت زون‌های Cloudflare با ویژگی‌های خودکارسازی.
 
  
 
