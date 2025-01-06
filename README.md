@@ -9,7 +9,7 @@ I'm a passionate and experienced computer engineer with a strong background in n
 ## 🛠 Skills & Expertise
 - **Network Administration:** Mikrotik, WAN/MAN/LAN Configuration, Network Security
 - **System Administration:** VPS Management, Linux (Ubuntu), Database Design
-- **Web Development:** Python, MySQL, Web Hosting, Automation, Telegram Bots
+- **Web Development:** Python, MySQL,NoSQL, Web Hosting, Automation, Telegram Bots
 - **Software Tools:** Adobe Photoshop, XAMPP, Microsoft Access, VirtualBox, Visual Studio
 - **Hardware Skills:** Computer Hardware Maintenance, Mobile Repairs, CCTV Integration
 - **Advanced Tools:** Radio Wireless Programming, Network Monitoring, Server Configuration
