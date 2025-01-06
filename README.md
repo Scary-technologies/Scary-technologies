@@ -29,7 +29,14 @@ I'm a passionate and experienced computer engineer with a strong background in n
   Website development, network setup, and wireless radio programming.
 - **Bazargani Torbat - Hardware Technician** (2013 - 2014)  
   Laptop and tablet repairs, website management, and online sales.
-
+**Computer Click - Software & Hardware Technician** (2011-2013)  
+- Provided software and hardware troubleshooting for desktops, laptops, and peripherals.
+**Reza Computer Services - Software Technician** (2005-2011)  
+- Installed, configured, and updated software applications on desktops and laptops.  
+- Diagnosed and resolved software-related issues, including system crashes and application errors.  
+- Provided training and support to clients on software usage and troubleshooting.  
+- Performed system optimization and maintenance to improve performance.  
+- Assisted in setting up and managing software environments for small businesses.  
 ---
 
 ## 📈 Notable Projects
