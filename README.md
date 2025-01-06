@@ -64,11 +64,8 @@ I'm a passionate and experienced computer engineer with a strong background in n
 ---
 
 ### 📊 GitHub Stats
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scary-technologies&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scary-technologies&layout=compact&theme=radical)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Scary-technologies&theme=radical)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Scary-technologies&repo=PVTT&theme=radical)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Scary-technologies&theme=radical)
 ![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Scary-technologies&theme=radical)
 
 
