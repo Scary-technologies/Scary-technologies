@@ -51,29 +51,30 @@ I'm a passionate and experienced computer engineer with a strong background in n
 ## 📂 My Repositories
 
 - [**PVTT**](https://github.com/Scary-technologies/PVTT)  
-  ابزار تبدیل گفتار به متن فارسی با استفاده از پایتون، PyQt5 و SpeechRecognition. مناسب برای تایپ خودکار متن‌ها از طریق صدا.  
+  A Persian speech-to-text conversion tool built with Python, PyQt5, and SpeechRecognition. Ideal for automatic text transcription from speech.  
 - [**WooCommerce-Bulk-Product-Update-Tool**](https://github.com/Scary-technologies/WooCommerce-Bulk-Product-Update-Tool)  
-  ابزاری گرافیکی برای بروزرسانی دسته‌جمعی محصولات ووکامرس با استفاده از API ووکامرس.  
+  A GUI tool for bulk updating WooCommerce products using the WooCommerce API.  
 - [**WooCommerce-Print-Orders**](https://github.com/Scary-technologies/WooCommerce-Print-Orders)  
-  افزونه‌ای پیشرفته برای چاپ فاکتورهای ووکامرس با پشتیبانی از زبان‌های راست‌به‌چپ و شخصی‌سازی کامل.  
+  An advanced plugin for printing WooCommerce invoices with RTL support and full customization options.  
 - [**Link-Checker-Tool**](https://github.com/Scary-technologies/Link-Checker-Tool)  
-  برنامه‌ای برای بررسی لینک‌های خراب (404) از فایل‌های متنی و ارائه گزارش‌های ذخیره‌شده.  
+  A tool for detecting broken links (HTTP 404) from text files and generating detailed reports.  
 - [**WebP-Optimizer-Pro**](https://github.com/Scary-technologies/WebP-Optimizer-Pro)  
-  افزونه وردپرس برای تبدیل تصاویر به فرمت WebP با قابلیت تبدیل دسته‌جمعی و تنظیم کیفیت تصاویر.  
+  A WordPress plugin that converts uploaded images to WebP format with options for batch conversion and quality adjustments.  
 - [**Wp-Import-Random-Comments**](https://github.com/Scary-technologies/Wp-Import-Random-Comments)  
-  پلاگین وردپرس برای درون‌ریزی نظرات تصادفی از فایل‌های متنی شامل نام کاربران و نظرات.  
+  A WordPress plugin to import random comments from text files, including user names and comment texts.  
 - [**Product-Data-Extractor**](https://github.com/Scary-technologies/Product-Data-Extractor)  
-  برنامه‌ای برای استخراج اطلاعات محصولات از سایت‌های تجارت الکترونیک و ذخیره آن‌ها در فایل اکسل.  
+  A Python tool for extracting product data from e-commerce websites and saving it to an Excel file.  
 - [**Advanced-Image-Resizer-WooCommerce-Thumbnail-Creator**](https://github.com/Scary-technologies/Advanced-Image-Resizer-WooCommerce-Thumbnail-Creator)  
-  ابزار پیشرفته برای تغییر اندازه تصاویر ووکامرس و ایجاد بندانگشتی‌های بهینه.  
+  A powerful tool for resizing images and generating optimized thumbnails for WooCommerce.  
 - [**WooCommerce-Random-Reviews-Generator**](https://github.com/Scary-technologies/WooCommerce-Random-Reviews-Generator)  
-  اسکریپت پایتونی برای ایجاد نظرات تصادفی برای محصولات ووکامرس.  
+  A Python script for generating random reviews for WooCommerce products.  
 - [**IMG2WEBP**](https://github.com/Scary-technologies/IMG2WEBP)  
-  اپلیکیشن وب ساده برای تبدیل تصاویر JPG و PNG به فرمت WebP با قابلیت دانلود و مشاهده تغییر حجم فایل.  
+  A simple web app built with Streamlit for converting JPG and PNG images to WebP format with file size comparison and download options.  
 - [**SRT Translate to Persian**](https://github.com/Scary-technologies/srt_translate_to_persian)  
-  ابزار ترجمه فایل‌های زیرنویس SRT به فارسی با استفاده از `googletrans`.  
+  A tool for translating SRT subtitle files to Persian using `googletrans`.  
 - [**Cloudflare-Zone-Manager**](https://github.com/Scary-technologies/Cloudflare-Zone-Manager)  
-  ابزاری برای مدیریت زون‌های Cloudflare با ویژگی‌های خودکارسازی.  
+  A solution for managing Cloudflare zones with automation features.  
+
 
 
 ---
