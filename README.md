@@ -33,10 +33,6 @@ I'm a passionate and experienced computer engineer with a strong background in n
 - Provided software and hardware troubleshooting for desktops, laptops, and peripherals.
 **Reza Computer Services - Software Technician** (2005-2011)  
 - Installed, configured, and updated software applications on desktops and laptops.  
-- Diagnosed and resolved software-related issues, including system crashes and application errors.  
-- Provided training and support to clients on software usage and troubleshooting.  
-- Performed system optimization and maintenance to improve performance.  
-- Assisted in setting up and managing software environments for small businesses.  
 ---
 
 ## 📈 Notable Projects
