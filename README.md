@@ -49,16 +49,32 @@ I'm a passionate and experienced computer engineer with a strong background in n
 ---
 
 ## 📂 My Repositories
+
 - [**PVTT**](https://github.com/Scary-technologies/PVTT)  
-  ابزار تبدیل گفتار به متن فارسی با استفاده از پایتون، PyQt5 و SpeechRecognition.  
+  ابزار تبدیل گفتار به متن فارسی با استفاده از پایتون، PyQt5 و SpeechRecognition. مناسب برای تایپ خودکار متن‌ها از طریق صدا.  
 - [**WooCommerce-Bulk-Product-Update-Tool**](https://github.com/Scary-technologies/WooCommerce-Bulk-Product-Update-Tool)  
-  ابزار گرافیکی برای بروزرسانی دسته‌جمعی محصولات ووکامرس.  
+  ابزاری گرافیکی برای بروزرسانی دسته‌جمعی محصولات ووکامرس با استفاده از API ووکامرس.  
+- [**WooCommerce-Print-Orders**](https://github.com/Scary-technologies/WooCommerce-Print-Orders)  
+  افزونه‌ای پیشرفته برای چاپ فاکتورهای ووکامرس با پشتیبانی از زبان‌های راست‌به‌چپ و شخصی‌سازی کامل.  
 - [**Link-Checker-Tool**](https://github.com/Scary-technologies/Link-Checker-Tool)  
-  ابزار بررسی لینک‌های خراب از فایل‌های متنی.  
+  برنامه‌ای برای بررسی لینک‌های خراب (404) از فایل‌های متنی و ارائه گزارش‌های ذخیره‌شده.  
 - [**WebP-Optimizer-Pro**](https://github.com/Scary-technologies/WebP-Optimizer-Pro)  
-  افزونه وردپرس برای تبدیل تصاویر به WebP.  
+  افزونه وردپرس برای تبدیل تصاویر به فرمت WebP با قابلیت تبدیل دسته‌جمعی و تنظیم کیفیت تصاویر.  
+- [**Wp-Import-Random-Comments**](https://github.com/Scary-technologies/Wp-Import-Random-Comments)  
+  پلاگین وردپرس برای درون‌ریزی نظرات تصادفی از فایل‌های متنی شامل نام کاربران و نظرات.  
+- [**Product-Data-Extractor**](https://github.com/Scary-technologies/Product-Data-Extractor)  
+  برنامه‌ای برای استخراج اطلاعات محصولات از سایت‌های تجارت الکترونیک و ذخیره آن‌ها در فایل اکسل.  
+- [**Advanced-Image-Resizer-WooCommerce-Thumbnail-Creator**](https://github.com/Scary-technologies/Advanced-Image-Resizer-WooCommerce-Thumbnail-Creator)  
+  ابزار پیشرفته برای تغییر اندازه تصاویر ووکامرس و ایجاد بندانگشتی‌های بهینه.  
+- [**WooCommerce-Random-Reviews-Generator**](https://github.com/Scary-technologies/WooCommerce-Random-Reviews-Generator)  
+  اسکریپت پایتونی برای ایجاد نظرات تصادفی برای محصولات ووکامرس.  
+- [**IMG2WEBP**](https://github.com/Scary-technologies/IMG2WEBP)  
+  اپلیکیشن وب ساده برای تبدیل تصاویر JPG و PNG به فرمت WebP با قابلیت دانلود و مشاهده تغییر حجم فایل.  
+- [**SRT Translate to Persian**](https://github.com/Scary-technologies/srt_translate_to_persian)  
+  ابزار ترجمه فایل‌های زیرنویس SRT به فارسی با استفاده از `googletrans`.  
 - [**Cloudflare-Zone-Manager**](https://github.com/Scary-technologies/Cloudflare-Zone-Manager)  
-  مدیریت زون‌های Cloudflare با ویژگی‌های خودکارسازی.
+  ابزاری برای مدیریت زون‌های Cloudflare با ویژگی‌های خودکارسازی.  
+
 
 ---
 
