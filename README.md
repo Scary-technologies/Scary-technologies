@@ -27,7 +27,7 @@ I'm a passionate and experienced computer engineer with a strong background in n
   Managing emergency networks (115), including WAN and wireless systems.
 - **Mahrookh Dashte Sabz Institute - IT Technician** (2014 - 2015)  
   Website development, network setup, and wireless radio programming.
-- **Bazargani Torbat - Hardware Technician** (2013 - 2014)  
+- **Bazargani Tarbiat - Hardware Technician** (2013 - 2014)  
   Laptop and tablet repairs, website management, and online sales.
 - **Computer Click - Software & Hardware Technician** (2011-2013)  
   Provided software and hardware troubleshooting for desktops, laptops, and peripherals.
