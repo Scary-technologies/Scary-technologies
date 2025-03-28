@@ -3,7 +3,7 @@
 **Senior Computer Engineer | Network Specialist | Web Developer**
 
 I'm a passionate and experienced computer engineer with a strong background in network management, hardware, and software development. My expertise spans across network security, web hosting, and programming with Python. I'm currently focused on delivering top-notch IT solutions and managing complex technical infrastructures.
-![Screenshot](Logo.jpg)
+
 ---
 
 ## 🛠 Skills & Expertise
