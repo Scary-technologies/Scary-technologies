@@ -19,7 +19,7 @@ I'm a passionate and experienced computer engineer with a strong background in n
 ---
 
 ## 💼 Professional Experience
-- **[MoeinSoft](https://moeinsoft.com/) - Software Engineer** (2024 - Now)  
+- **[MoeinSoft](https://moeinsoft.com/) - Software Engineer** (2024 - 2024)  
   Developing software solutions and managing IT systems for enterprise clients.
 - **[Mashhad Kala](https://mashadkala.com/) - Senior Hardware Engineer** (2017 - 2019)  
   Specializing in hardware maintenance, network setup, and team management.
