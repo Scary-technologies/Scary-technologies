@@ -18,39 +18,6 @@ I'm a passionate and experienced computer engineer with a strong background in n
 
 ---
 
-## 💼 Professional Experience
-- **[MoeinSoft](https://moeinsoft.com/) - Software Engineer** (2024 - 2024)  
-  Developing software solutions and managing IT systems for enterprise clients.
-- **[Mashhad Kala](https://mashadkala.com/) - Senior Hardware Engineer** (2017 - 2019)  
-  Specializing in hardware maintenance, network setup, and team management.
-- **[Poosh Ertebat Company](https://rasmio.com/company/10380299882/direct/) - Network Support Engineer** (2015 - 2017)  
-  Managing emergency networks (115), including WAN and wireless systems.
-- **Mahrookh Dashte Sabz Institute - IT Technician** (2014 - 2015)  
-  Website development, network setup, and wireless radio programming.
-- **Bazargani Tarbiat - Hardware Technician** (2013 - 2014)  
-  Laptop and tablet repairs, website management, and online sales.
-- **Computer Click - Software & Hardware Technician** (2011-2013)  
-  Provided software and hardware troubleshooting for desktops, laptops, and peripherals.
-- **Reza Computer Services - Software Technician** (2005-2011)  
-  Installed, configured, and updated software applications on desktops and laptops.  
----
-
-## 📈 Notable Projects
-- **[Ratin Ard Company Website](http://ratinard.com)**  
-  Designed and implemented a complete web solution for exporting grains.  
-- **[Kaveh Ahangar Factory Network](https://gsksite.com)**  
-  Executed network and security setup including CCTV integration.  
-- **Imam Reza School Network**  
-  Developed and managed the school’s IT infrastructure with LAN configuration for 20 nodes.  
-- **Emergency 115**  
-  Managed and maintained wireless networks for emergency communication.  
-- **Sajad Pharmaceutical Website**  
-  Developed a modern website for a pharmaceutical company.  
-- **Click Computer Services**  
-  Built a website and managed network solutions for a local IT services company.
-
----
-
 ## 📂 My Repositories
 
 - [**PVTT**](https://github.com/Scary-technologies/PVTT)  
