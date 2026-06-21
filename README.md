@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ali Mirshahi (PR-M) <img src="https://media.giphy.com/media/hvRJk4CQiM8EA6xWEW/giphy.gif" width="35px"></h1>
+<h1 align="center">Hi there, PR-M <img src="https://media.giphy.com/media/hvRJk4CQiM8EA6xWEW/giphy.gif" width="35px"></h1>
 
 <h3 align="center">Senior Computer Engineer | Network Alchemist | Automation Enthusiast</h3>
 
